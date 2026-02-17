@@ -1,1 +1,2 @@
-This will be a game named Manchkin
+This will be a game named Manchkin!
+
